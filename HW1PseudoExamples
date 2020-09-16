@@ -1,12 +1,12 @@
-glBegin ( GL_POLYGON ):
+glBegin ( GL_POLYGON ): #This would just be a cool looking polygon 
     glVertex2f(0.0, 0.0)
     glVertex2f(0.0, 2.0)
-    glVertex2f(4.0, 2.0)
-    glVertex2f(6.0, 2.0)
-    glVertex2f(4.0, 2.0)
+    glVertex2f(4.0, 5.0)
+    glVertex2f(6.0, 0.0)
+    glVertex2f(4.0, 1.0)
     glEnd()
     
-glBegin ( GL_TRIANGLE_FAN ):
+glBegin ( GL_TRIANGLE_FAN ): # This would be a triangle fan consisting of 5 triangles and the origin is a right angle
     glVertex2f(3.0, 0.0)
     glVertex2f(3.0, 4.0)
     glVertex2f(4.0, 3.0)
@@ -15,8 +15,8 @@ glBegin ( GL_TRIANGLE_FAN ):
     glVertex2f(7.0, 0.0)
     glEnd()
     
-glBegin ( GL_LINE_strip):
-    glVertex2f(8.0, 0.0)
+glBegin ( GL_LINE_strip): #This would be a line strip so it won't be filled in like the other two examples and Its basically a line that 
+    glVertex2f(8.0, 0.0)  # begins going up then cuts back towards the origin and down then goes horizontally towards the right
     glVertex2f(8.0, 4.0)
     glVertex2f(12.0, 4.0)
     glVertex2f(10.0, 1.0)
