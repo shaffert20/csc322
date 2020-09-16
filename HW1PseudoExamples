@@ -1,0 +1,24 @@
+glBegin ( GL_POLYGON ):
+    glVertex2f(0.0, 0.0)
+    glVertex2f(0.0, 2.0)
+    glVertex2f(4.0, 2.0)
+    glVertex2f(6.0, 2.0)
+    glVertex2f(4.0, 2.0)
+    glEnd()
+    
+glBegin ( GL_TRIANGLE_FAN ):
+    glVertex2f(3.0, 0.0)
+    glVertex2f(3.0, 4.0)
+    glVertex2f(4.0, 3.0)
+    glVertex2f(5.0, 2.0)
+    glVertex2f(6.0, 1.0)
+    glVertex2f(7.0, 0.0)
+    glEnd()
+    
+glBegin ( GL_LINE_strip):
+    glVertex2f(8.0, 0.0)
+    glVertex2f(8.0, 4.0)
+    glVertex2f(12.0, 4.0)
+    glVertex2f(10.0, 1.0)
+    glVertex2f(15, 1.0)
+    glEnd()
