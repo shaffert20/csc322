@@ -1,0 +1,14 @@
+Checkpoint 4 Discuss the changes beween checkpoint 2 and checkpoint 2:
+The rendered image in checkpoint 3 is zoomed way out and a lot smaller than checkpoint 2 because of how drastically the resolution was reduced.
+
+Checkpoint 6 Compare images from checkpoint 5 to checkpoint 2:
+I changed the gamma value to 2 and the image got a lot brighter. The surface of the sphere looks to be very glossy and the entire image is brighter than checkpoint 2.
+
+Activity Questions
+1. Light interacts differently with objects in real life by either traveling through an object, reflecting off an object, or absorbing the light entirely.
+2. We perceive only the colors of the object that are reflected off of the object. Every other color is absorbed.
+3. Using a YUV color space is more efficient and reduces the bandwith more than the RGB capture can.
+4. If you add R+G+B of light together it equals a white light which is much different than what mixing red green and blue would be for paint. The rules are much different than mixing colors for paint.
+5. The green screen is green because of the cleanliness and luminescense of green. It has to be a color that the object isn't.
+6. It makes the image look realistic.
+7. The color we see is a result of which wavelengths are reflected back to our eyes. 
