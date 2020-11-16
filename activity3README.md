@@ -6,3 +6,5 @@ Checkpoint 2.2: The image with only 250w of lighting is much darker than the rer
 it looks the exact same as the other but its just much darker. This is the effect of reducing light power.
 Checkpoint 2.4: The light scaled by .5 makes the rendered image much brighter. This is because it puts the light a lot closer therefore lighting up the sphere and plane much
 more than in the rerendered 1.5
+Checkpoint 2.6: The area light rendering and the rerendered image in 1.5 actually look really similar. It appears the image with the area light might be a little bit brighter simply because its much bigger but they look about the same to the naked eye.
+Checkpoint 4: The materials for the plane and the sphere were changed in every image rendered. In the first image the sphere is metallical and because of this reflects light off of the background so we can see part of the background image on the sphere. In the second image the plane is more metallic but it is also red. For this reason it reflects images off of the background but with a red tint. In the final image, both objects are fairly rough and don't reflect much light off their surface.
