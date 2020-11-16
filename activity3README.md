@@ -4,3 +4,5 @@ Checkpoint 1.6: Subdivision makes it so if you use flat shading the object will 
 The image with subdivision and smooth shading is smooth all the way around and looks a lot smoother than the smooth shading image that was rendered without subdivision.
 Checkpoint 2.2: The image with only 250w of lighting is much darker than the rerendered checkpoint 1.5. The shadow is in the exact same spot. In the low lighting image
 it looks the exact same as the other but its just much darker. This is the effect of reducing light power.
+Checkpoint 2.4: The light scaled by .5 makes the rendered image much brighter. This is because it puts the light a lot closer therefore lighting up the sphere and plane much
+more than in the rerendered 1.5
