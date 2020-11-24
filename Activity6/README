@@ -1,0 +1,11 @@
+Checkpoint 2.2: Adding a normal map to the image made the sphere gain a little bit more texture. The texture on the first image is basically completely spherical and the 
+normal map adds texture to the point where you can see elements protruding off the sphere.
+
+Checkpoint 2.3: Adding a displacement map makes the sphere extremely rigid and looks a lot cooler than the previous images. There are spikes protruding off of the sphere.
+This texture makes it so the sphere doesn't just inherit the picture of the texture but the actual texture that comes with the rock.
+
+This blender activity was really useful in determining how to use textures and materials. Although we had previously used materials, we had never used the material editor.
+Using the material editor allowed us to actually experiment with how you can edit/change object to look the way you desire. 
+
+We also experimented with UV maps and editing them. This was helpful because it shows how one can change the default UV wrap to make it more beneficial for adding materials to it.
+Although creating seams on objects can be tedious at some points, it is very useful and necessary in order to optimize the texture and appearance of your objects.
